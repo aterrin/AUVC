@@ -1,2 +1,3 @@
 # AUVC
-Alex is a great person!
+Alex is not a great person!
+i do not trust him around our submarine 
